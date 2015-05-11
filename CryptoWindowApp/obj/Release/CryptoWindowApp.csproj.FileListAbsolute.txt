@@ -1,0 +1,10 @@
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\bin\Release\CryptoWindowApp.exe.config
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\bin\Release\CryptoWindowApp.exe
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\bin\Release\CryptoWindowApp.pdb
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\bin\Release\AssymetricCryptoApp.dll
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.csprojResolveAssemblyReference.cache
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.frmCrypto.resources
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.Properties.Resources.resources
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.csproj.GenerateResource.Cache
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.exe
+D:\Sarvesh\AssymetricCryptoApp\CryptoWindowApp\obj\Release\CryptoWindowApp.pdb

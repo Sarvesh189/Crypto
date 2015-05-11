@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApp", "AssymetricCryptoApp\CryptoApp.csproj", "{705160FE-150A-4ECA-B348-9A0C00D610C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWindowApp", "CryptoWindowApp\CryptoWindowApp.csproj", "{C1DCD1C5-4209-406A-BC83-6B79601CBBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptionTesting", "DecryptionTesting\DecryptionTesting.csproj", "{B10E52B1-49DD-457F-B452-ED64FFE739F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705160FE-150A-4ECA-B348-9A0C00D610C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705160FE-150A-4ECA-B348-9A0C00D610C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705160FE-150A-4ECA-B348-9A0C00D610C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705160FE-150A-4ECA-B348-9A0C00D610C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DCD1C5-4209-406A-BC83-6B79601CBBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DCD1C5-4209-406A-BC83-6B79601CBBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DCD1C5-4209-406A-BC83-6B79601CBBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DCD1C5-4209-406A-BC83-6B79601CBBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10E52B1-49DD-457F-B452-ED64FFE739F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10E52B1-49DD-457F-B452-ED64FFE739F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10E52B1-49DD-457F-B452-ED64FFE739F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10E52B1-49DD-457F-B452-ED64FFE739F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

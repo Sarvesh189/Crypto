@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CryptoLibrary</id>
+    <version>1.0.01</version>
+    <title>CryptoApp</title>
+    <authors>Sarvesh Upadhyay</authors>
+    <owners>Sarvesh Upadhyay</owners>
+    <licenseUrl>http://upadhyaysarvesh.blogspot.in</licenseUrl>
+    <projectUrl>http://upadhyaysarvesh.blogspot.in</projectUrl>
+    <!--<iconUrl></iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Assembly to cipher and decipher</description>
+    <releaseNotes> Encryption and Decryption Library</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags></tags>
+  </metadata>
+</package>
